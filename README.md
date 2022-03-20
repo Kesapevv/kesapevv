@@ -12,7 +12,7 @@
                MVC/MVVM 
                Git/GitHub
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
                      Telegram: @kesapevv
                      E-mail: vadimvoronkoffn@gmail.com
 
