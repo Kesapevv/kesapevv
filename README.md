@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, my name is Vadim. 
+
+- 🌱 I’m currently learning SWIFT since november 2021
+- 👀 I’m looking for a job or some projects where i can improve my dev skills
+- 📕 My stack: Swift
+               UiKit, SwiftUI
+               Autolayout, Storyboard
+               UserDefaults, Firebase
+               Alamofire
+               JSON
+               Local Notifications
+               MVC/MVVM 
+               Git/GitHub
+
+- 📫 How to reach me: 
+                     Telegram: @kesapevv
+                     E-mail: vadimvoronkoffn@gmail.com
 
 <!--
 **Kesapevv/kesapevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
