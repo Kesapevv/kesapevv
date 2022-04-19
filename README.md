@@ -8,7 +8,7 @@
                UserDefaults, Firebase,
                Alamofire,
                JSON,
-               Local Notifications,
+               StoreKit,
                Singleton, MVC
                Git/GitHub
 
