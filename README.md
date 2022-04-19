@@ -2,14 +2,14 @@
 
 - 🌱 I’m currently learning SWIFT since november 2021
 - 👀 I’m looking for a job or some projects where i can improve my dev skills
-- 📕 My stack: Swift
-               UiKit, SwiftUI
-               Autolayout, Storyboard
-               UserDefaults, Firebase
-               Alamofire
-               JSON
-               Local Notifications
-               MVC/MVVM 
+- 📕 My stack: Swift,
+               UiKit, SwiftUI,
+               Autolayout, Storyboard, SnapKit,
+               UserDefaults, Firebase,
+               Alamofire,
+               JSON,
+               Local Notifications,
+               Singleton, MVC
                Git/GitHub
 
 - 📫 How to reach me:
