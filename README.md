@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SWIFT since november 2021
 - 👀 I’m looking for a job or some projects where i can improve my dev skills
 - 📕 My stack: Swift,
-               UiKit, SwiftUI,
+               UiKit, SwiftUI
                Autolayout, Storyboard, SnapKit,
                UserDefaults, Firebase,
                Alamofire,
