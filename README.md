@@ -1,20 +1,8 @@
 ### Hi there, my name is Vadim. 
 
-- 🌱 I’m currently learning SWIFT since november 2021
-- 👀 I’m looking for a job or some projects where i can improve my dev skills
-- 📕 My stack: Swift,
-               UiKit, SwiftUI
-               Autolayout, Storyboard, SnapKit,
-               UserDefaults, Firebase,
-               Alamofire,
-               JSON,
-               StoreKit,
-               Singleton, MVC
-               Git/GitHub
-
 - 📫 How to reach me:
-                     Telegram: @kesapevv
-                     E-mail: vadimvoronkoffn@gmail.com
+                     Telegram: @kesapen
+                     E-mail: kesapen@icloud.com
                      
 -📱 My projects in AppStore: https://apps.apple.com/us/developer/vadim-voronkov/id1608359143
 
